@@ -1,6 +1,6 @@
 #!/bin/bash
 
-VERSION=1.00
+VERSION=2.11
 
 # printing greetings
 
